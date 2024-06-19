@@ -1,0 +1,14 @@
+# Invoice-data-analysis-
+Dataset with several columns related to invoices. Here's a brief description of each column:
+
+id_invoice: An identifier for each invoice.
+issuedDate: The date when the invoice was issued.
+country: The country associated with the company.
+service: Description of the service or product provided.
+total: The total amount of the invoice.
+discount: Any applicable discounts on the invoice.
+tax: Any taxes or fees applied to the invoice.
+invoiceStatus: The status of the invoice (e.g., paid, unpaid, pending).
+balance: The remaining balance on the invoice.
+dueDate: The due date for payment of the invoice.
+client: Additional information about the client.
